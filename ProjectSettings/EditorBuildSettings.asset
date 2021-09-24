@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 1d4d42c41658d429bb4d699519179e6c
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 29be74b7b39c44990b5cdfc0ad867bd4
+  - enabled: 1
+    path: Assets/Scenes/Selection.unity
+    guid: 844a0301380ae442ca651b28dd3edf5a
+  - enabled: 1
+    path: Assets/Scenes/Show1.unity
+    guid: dad4e82f367b6468483cf4f4ec137155
+  - enabled: 1
+    path: Assets/Scenes/Show2.unity
+    guid: a9041ef2f9fd44356affd143a8cdf1fc
+  - enabled: 1
+    path: Assets/Scenes/Show3.unity
+    guid: a6f5d53b50c4242bea045086f463bae7
+  - enabled: 1
+    path: Assets/Scenes/Show4.unity
+    guid: 6a764f6936e7640a98ba3f36934d8276
+  - enabled: 1
+    path: Assets/Scenes/Show5.unity
+    guid: 6b0fafe3185264e3f93c5e2b48fa2697
+  - enabled: 1
+    path: Assets/Scenes/GoAnswer.unity
+    guid: 47ce5fdbd8c7c4fcdaeb999c54999886
+  - enabled: 1
+    path: Assets/Scenes/Answer.unity
+    guid: 28a55e07c7675463f89c8fba72f55401
+  m_configObjects: {}
